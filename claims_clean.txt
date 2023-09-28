@@ -1,0 +1,31 @@
+﻿1. A method of obtaining a system, 
+the method comprising the following method steps:
+step1, 
+step2, and
+setp3.
+
+2. The method of claim 1, wherein 
+A is B.
+
+3. The method according to any one of the preceding claims, wherein 
+A comprises C.
+
+4. The method according to any one of the preceding claims, wherein 
+A comprises D and F.
+
+5. The method of claim 4, wherein 
+in a further method step A is arranged on D.
+
+6. The method according to any one of the preceding claims, wherein 
+A is F.
+
+7. The method according to any one of the preceding claims, wherein 
+in a further method step B is arranged on F.
+
+8. A method of obtaining a system, 
+the method comprising the following method steps:
+step3, 
+step4, and
+setp5.
+
+9. A system obtained according to any one of the preceding claims.
