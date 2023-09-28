@@ -8,7 +8,8 @@ Patent machine is my first apporach of a patent drafting tool.
 You can input the claims in a text field and automatically generate a patent application (word and pdf document).
 
 
-![image info](./figures/Screenshot 2023-09-28 094254.jpg)
+![screenshot](https://github.com/xi2pi/PatentTrainingHub/blob/main/figures/Screenshot%202023-09-28%20094254.jpg)
+
 
 ### How to run patent machine
 
