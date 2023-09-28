@@ -19,6 +19,10 @@ Run following consol command:
 panel serve patent_machine.ipynb --autoreload
 ```
 
+## Related topics
+
+- [Patent Claim Dependency](https://github.com/xi2pi/patent-claim-dependency)
+- [Patent Claim Combinations](https://github.com/xi2pi/patent-claim-combination)
 
 ## Disclaimer
 
